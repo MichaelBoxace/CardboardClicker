@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/Cardboard Clicker - Congratulation.wav-93162915e28d2625e2bd6a02cbd51c8e.sample"
+
+[deps]
+
+source_file="res://Cardboard Clicker - Congratulation.wav"
+dest_files=[ "res://.import/Cardboard Clicker - Congratulation.wav-93162915e28d2625e2bd6a02cbd51c8e.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0
